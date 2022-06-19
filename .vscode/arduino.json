@@ -1,0 +1,8 @@
+{
+    "arduino.path": "C:/Program Files (x86)/Arduino",
+    "board": "arduino:mbed_nano:nanorp2040connect",
+    "port": "COM6",
+    "programmer": "arduino:cmsis-dap",
+    "sketch": "src\\Sumobot.ino",
+    "output": "../build"
+}
